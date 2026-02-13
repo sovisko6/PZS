@@ -1,0 +1,7 @@
+dsp_lib/
+├── __init__.py       # Udělá ze složky balíček
+├── generators.py     # Generování signálů (sinus, obdélník, pila, šum...)
+├── time_analysis.py  # Energie, výkon, korelace, konvoluce
+├── freq_analysis.py  # DFT (tvoje maticová verze), FFT, Kepstrum
+├── filters.py        # FIR/IIR filtry
+└── visualization.py  # Funkce pro plotování (ať to nemusíš psát 100x)
