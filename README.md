@@ -23,3 +23,5 @@ Jitter & Shimmer: Variabilita frekvence a amplitudy.
 HNR (Harmonics-to-Noise Ratio): Poměr harmonických složek k šumu.
 
 Spektrální analýza: Sledování formantů a energetického spektra.
+
+Na práci jsme spolupracovaly v týmu v ramci UJEP
